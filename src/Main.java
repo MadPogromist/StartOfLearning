@@ -8,7 +8,7 @@ public class Main {
         float f1 = input.nextFloat();
         Boolean b1 = input.nextBoolean();
         System.out.println(i1 + " " + d1 + " " +f1 + " " + b1);
-        double res = i1 - d1;
+        double res = i1 - f1;
         System.out.println(res);
     }
     }
